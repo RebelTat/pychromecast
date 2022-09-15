@@ -32,7 +32,7 @@ How to use
 .. code:: python
 
     >> import time
-    >> import pychromecast
+    >> import pychromecastimport
 
     >> # List chromecasts on the network, but don't connect
     >> services, browser = pychromecast.discovery.discover_chromecasts()
